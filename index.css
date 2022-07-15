@@ -1,0 +1,64 @@
+
+
+
+.navigation-bar { 
+    display :flex;
+    justify-content: space-between;
+}
+.name {
+   background-color: #FFFFFF;
+} 
+.home-work-about { display: flex;
+    
+    justify-content: flex-end;
+   background-color: #FFFFFF; 
+ gap:60px}
+
+body {background-color: rgb(255, 255, 255);
+padding: 200px;}
+
+
+
+.projects-container { 
+    /* background-color: #8FDCC4; */
+    display:flex;
+    align-items: center;
+    gap: 40px;
+    padding-top: 25px;
+    padding-bottom: 32px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.blue {
+    background-color: #8FDCC4;
+}
+
+.pink {
+    background-color: #E26177;
+}
+
+.lightblue {
+    background-color: #C8EDF5;
+}
+.wicked-problems {display:flex; 
+
+}
+
+.project1-image { }
+   
+.project1-text {
+    
+    flex-direction: column;
+    justify-content: flex-start;
+
+    }
+footer { 
+    text-align: center;
+   background-color: #FFFFFF;
+   
+}
+.linkedin{display: flex; justify-content: center;
+ gap: 16px; letter-spacing: 0
+;
+}
